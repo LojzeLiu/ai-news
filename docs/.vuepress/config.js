@@ -5,7 +5,7 @@ import {viteBundler} from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
     lang: 'en-US',
-    base:'/ai-news-aid/',
+    base:'/ai-news/',
     title: '话亦AI内参',
     description: '为您获取一手消息',
 
